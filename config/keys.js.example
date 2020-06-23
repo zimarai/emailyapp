@@ -1,0 +1,6 @@
+module.exports = {
+    googleClientID: "<google-id>",
+    googleClientSecret: "<google-secret>",
+    mongoURI: "<mongo-uri>",
+    cookieKey: "<cookie-encryption-key>"
+};
